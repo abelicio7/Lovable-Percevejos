@@ -20,11 +20,11 @@ const Footer = () => {
               <div className="space-y-2">
                 <div className="flex items-center gap-2">
                   <Phone className="w-5 h-5" />
-                  <p className="text-background/90">WhatsApp: +258 XX XXX XXXX</p>
+                  <p className="text-background/90">WhatsApp: +258 87 993 1016</p>
                 </div>
                 <div className="flex items-center gap-2">
                   <Mail className="w-5 h-5" />
-                  <p className="text-background/90">suporte@exemplo.co.mz</p>
+                  <p className="text-background/90">eliminarpercevejos@gmail.com</p>
                 </div>
               </div>
               <p className="text-sm text-background/70">
