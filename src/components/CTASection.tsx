@@ -5,7 +5,7 @@ import happyHomeImage from "@/assets/happy-home.jpg";
 const CTASection = () => {
   const handleCTAClick = () => {
     // This would redirect to payment page or open payment modal
-    window.alert("https://percevejos.vercel.app");
+    window.open("https://percevejos.vercel.app");
   };
 
   return (
