@@ -29,7 +29,7 @@ const CTASection = () => {
                     De: 500 MT
                   </p>
                   <div className="flex items-baseline gap-2">
-                    <p className="text-5xl md:text-6xl font-bold text-primary">199</p>
+                    <p className="text-5xl md:text-6xl font-bold text-primary">149</p>
                     <p className="text-2xl font-semibold text-primary">MT</p>
                   </div>
                   <p className="text-sm text-muted-foreground mt-1">
