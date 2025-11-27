@@ -6,7 +6,7 @@ const SolutionSection = () => {
     {
       icon: Leaf,
       title: "100% Natural",
-      description: "Ingredientes que você encontra facilmente em Moçambique",
+      description: "Ingredientes que você encontra facilmente no Brasil",
     },
     {
       icon: Shield,
