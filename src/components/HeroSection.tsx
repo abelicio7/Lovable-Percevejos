@@ -16,13 +16,13 @@ const HeroSection = () => {
               Elimine Percevejos de Forma Natural
             </h1>
             <p className="text-xl md:text-2xl font-semibold text-background/95">
-              Solução Definitiva e Segura para Moçambique!
+              Solução Definitiva e Segura!
             </p>
             <div className="space-y-3">
               <div className="flex items-start gap-3">
                 <CheckCircle2 className="w-6 h-6 text-accent flex-shrink-0 mt-1" />
                 <p className="text-lg text-background/90">
-                  Ingredientes 100% naturais disponíveis em Moçambique
+                  Ingredientes 100% naturais disponíveis em qualquer Mercado Local
                 </p>
               </div>
               <div className="flex items-start gap-3">
