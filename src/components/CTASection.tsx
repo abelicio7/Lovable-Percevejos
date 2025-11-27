@@ -5,7 +5,7 @@ import happyHomeImage from "@/assets/happy-home.jpg";
 const CTASection = () => {
   const handleCTAClick = () => {
     // This would redirect to payment page or open payment modal
-    window.open("https://percevejos.vercel.app");
+    window.open("https://pay.kiwify.com.br/UBuoVBY");
   };
 
   return (
@@ -26,11 +26,11 @@ const CTASection = () => {
               <div className="space-y-6">
                 <div>
                   <p className="text-muted-foreground line-through text-xl">
-                    De: 500 MT
+                    De: 47,99 Reais
                   </p>
                   <div className="flex items-baseline gap-2">
-                    <p className="text-5xl md:text-6xl font-bold text-primary">149</p>
-                    <p className="text-2xl font-semibold text-primary">MT</p>
+                    <p className="text-5xl md:text-6xl font-bold text-primary">19</p>
+                    <p className="text-2xl font-semibold text-primary">Reais</p>
                   </div>
                   <p className="text-sm text-muted-foreground mt-1">
                     Oferta especial por tempo limitado
@@ -73,7 +73,7 @@ const CTASection = () => {
 
                 <div className="flex items-center justify-center gap-2 text-sm text-muted-foreground">
                   <Smartphone className="w-5 h-5" />
-                  <p>Pagamento seguro via M-Pesa ou E-Mola</p>
+                  <p>Pagamento Seguro</p>
                 </div>
               </div>
 
