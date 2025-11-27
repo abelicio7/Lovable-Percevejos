@@ -22,7 +22,7 @@ const HeroSection = () => {
               <div className="flex items-start gap-3">
                 <CheckCircle2 className="w-6 h-6 text-accent flex-shrink-0 mt-1" />
                 <p className="text-lg text-background/90">
-                  Ingredientes 100% naturais disponíveis em qualquer Mercado Local
+                  Ingredientes 100% naturais disponíveis no Brasil
                 </p>
               </div>
               <div className="flex items-start gap-3">
